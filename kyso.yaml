@@ -1,0 +1,7 @@
+title: "Test Jupyter"
+description: "This is a description of what I did in my awesome post"
+branch: master
+main: nfl_lineups_pulp.ipynb
+tags:
+  - science
+  - data
